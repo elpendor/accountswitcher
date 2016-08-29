@@ -20,6 +20,9 @@ Open the app, and dump your current profile (second option)
 * Choose a profile
 * Reboot system
 
+##Backup folder
+* Profiles are stored on __ux0:/data/AccountSwitcher__
+
 #Credits:
 * vitasdk and henkaku devs for making this possible
 * [xerpi](https://github.com/xerpi) for vita2dlib
