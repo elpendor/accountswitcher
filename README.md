@@ -23,6 +23,9 @@ Open the app, and dump your current profile (second option)
 ##Backup folder
 * Profiles are stored on __ux0:/data/AccountSwitcher__
 
+#ToDo
+* Trial account support
+
 #Credits:
 * vitasdk and henkaku devs for making this possible
 * [xerpi](https://github.com/xerpi) for vita2dlib
