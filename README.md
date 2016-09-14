@@ -12,7 +12,11 @@ Open the app, and dump your current profile (second option)
 * When asked if you want to deactivate, choose "No"
 * When asked if you want to format the card, choose "No"
 * Log in with your new credentials
-* Activate the Vita (NOTE: since 3.61 you can't do that directly, you have to use either vita-activator or choose the Activate option I included in AccountSwitcher)
+* Activate the Vita
+  * Since 3.61 you can't do that directly, you have to do one of the following:
+    * use vita-activator 
+    * use the Activate option I included in AccountSwitcher
+    * From Henkaku Release 3 onwards, PSN spoofing is included. Activate the device normally from Settings or just by downloading anything from store
 * Open the app and dump your new profile (second option)
 
 ##Loading an account:
@@ -31,3 +35,4 @@ Open the app, and dump your current profile (second option)
 * [xerpi](https://github.com/xerpi) for vita2dlib
 * [kprinssu](https://github.com/kprinssu) for vitamenulib
 * [ZombieWizzard](https://github.com/ZombieWizzard) for vita-activate
+
