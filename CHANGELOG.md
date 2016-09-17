@@ -1,3 +1,10 @@
+#v2.4
+* Removed ZombieWizzard's vita-activator option since it's not working correctly and i don't have the time check why. Use henkaku's psn spoofing for now.
+* Minor bugfixes and text fixes
+* Better method to persist offline henkaku when switching accounts
+* Trial accounts are now supported
+* Added more stuff to the cleanup script
+
 #v2.3:
 * Removed current account check (it was pointless to begin with, there are situations when you need to reload such as deactivating)
 * Added LiveArea
