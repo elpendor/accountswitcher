@@ -14,8 +14,8 @@ Open the app, and dump your current profile (second option)
 * Log in with your new credentials
 * Activate the Vita
   * Since 3.61 you can't do that directly, you have to do one of the following:
-    * use [vita-activator](https://github.com/ZombieWizzard/vita-activator)
-    * use the Activate option I included in AccountSwitcher
+    ~~* use [vita-activator](https://github.com/ZombieWizzard/vita-activator)~~
+    ~~* use the Activate option I included in AccountSwitcher~~
     * From Henkaku Release 3 onwards, PSN spoofing is included. Activate the device normally from Settings or just by downloading anything from store
 * Open the app and dump your new profile (second option)
 
